@@ -78,7 +78,7 @@ sudo fail2ban-client status sshd
 Too many steps? I've got you. Run this magic command to install, configure, and start everything automatically
 
 ```
-sh <(curl -s https://raw.githubusercontent.com/your-repo/fail2ban-setup/main/setup_fail2ban.sh)
+sh <(curl -s https://raw.githubusercontent.com/mrmoghadasi/fail2ban/refs/heads/main/setup_fail2ban.sh)
 ```
 
 
