@@ -1,7 +1,6 @@
 ### Sample Script Content (`setup_fail2ban.sh`)
 #If you wanna host this yourself or tweak it, here's the script. Save it as `setup_fail2ban.sh`, make it executable (`chmod +x setup_fail2ban.sh`), and push to GitHub.
 
-```bash
 #!/bin/bash
 
 # Easy Fail2Ban Setup Script
